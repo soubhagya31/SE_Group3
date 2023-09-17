@@ -29,7 +29,7 @@
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer                                  | 0          | no evidence                                                                                                                                            |
 | Evidence that the members of the team are working across multiple places in the code base                                                                                               | 2          | [https://github.com/War-Keeper/ScheduleBot/commits/main](https://github.com/War-Keeper/ScheduleBot/commits/main)                                       |
 | Short release cycles                                                                                                                                                                    | 2          | [https://github.com/War-Keeper/ScheduleBot/graphs/contributors](https://github.com/War-Keeper/ScheduleBot/graphs/contributors)                         |
-
+| | |
 | Sustanability Form | Answer | |
 | Does your website and documentation provide a clear, high-level overview of your software?                                                                                                                     | Yes            |
 | Does your website and documentation clearly describe the type of user who should use your software?                                                                                                            | Yes            |
